@@ -1,0 +1,13 @@
+D:\CS3500AppDev\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.exe.config
+D:\CS3500AppDev\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.exe
+D:\CS3500AppDev\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.pdb
+D:\CS3500AppDev\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.xml
+D:\CS3500AppDev\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.vbprojAssemblyReference.cache
+D:\CS3500AppDev\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.DisplayForm.resources
+D:\CS3500AppDev\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.Resources.resources
+D:\CS3500AppDev\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.vbproj.GenerateResource.cache
+D:\CS3500AppDev\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.vbproj.CoreCompileInputs.cache
+D:\CS3500AppDev\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.exe
+D:\CS3500AppDev\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.xml
+D:\CS3500AppDev\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.pdb
+D:\CS3500AppDev\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.SetupForm.resources
